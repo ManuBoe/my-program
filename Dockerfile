@@ -1,6 +1,6 @@
 # parameters
 ARG REPO_NAME="<my-program>"
-ARG DESCRIPTION="<.>"
+ARG DESCRIPTION="<First Project>"
 ARG MAINTAINER="<ManuelBoehme> (<mboehme145@gmail.com>)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
